@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+A react finance-tracker app, built with react functionality, Authentication and database serviecs provided by firestore and firebase and hosted by firebase.
+mymoney-6061b.web.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
